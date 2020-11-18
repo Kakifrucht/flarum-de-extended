@@ -19,7 +19,7 @@ You can find the German language pack for Flarum and it's bundled extensions in 
 ### Version
 
 - 0.1.0
-- Released on November xx, 2020
+- Released on November 18, 2020
 
 ### Supported Extensions
 
