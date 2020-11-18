@@ -1,8 +1,6 @@
 # German Language Pack for [Flarum](https://flarum.org/) third-party extensions
 
-[![Join the chat at https://gitter.im/cbmainz/flarum-de](https://badges.gitter.im/cbmainz/flarum-de.svg)](https://gitter.im/cbmainz/flarum-de?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-Extension to localize third party extensions into German.
+Extension to localize third party extensions into German. For support, please use the discussion thread on the [Flarum support forum](https://discuss.flarum.org/d/2648-german-language-pack), or use the issue tracker here on GitHub.
 
 You can find the German language pack for Flarum and it's bundled extensions in [this repository](https://github.com/Kakifrucht/flarum-de).
 
@@ -41,10 +39,10 @@ Released under the MIT License. Please see the [LICENSE](LICENSE) file.
 
 ### How to install
 
-via Composer: `composer require Kakifrucht/flarum-de-extended`
+via Composer: `composer require kakifrucht/flarum-de-extended`
 
-See also on [Packagist](https://packagist.org/packages/Kakifrucht/flarum-de-extended).
+See also on [Packagist](https://packagist.org/packages/kakifrucht/flarum-de-extended).
 
 ### How to update
 
-via Composer: `composer update Kakifrucht/flarum-de-extended`
+via Composer: `composer update kakifrucht/flarum-de-extended`
