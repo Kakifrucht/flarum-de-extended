@@ -1,9 +1,9 @@
 fof-userbio:
-  admin: #TODO admin not yet translated
+  admin:
     permission:
-      view: View bio
-      editOwn: Edit own bio
-      editAny: Edit any bio
+      view: Bio ansehen
+      editOwn: Eigene Bio editieren
+      editAny: Alle Bio's editieren
 
   forum:
     userbioPlaceholder: Schreibe etwas über dich!
