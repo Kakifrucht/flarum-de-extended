@@ -43,7 +43,7 @@ Released under the MIT License. Please see the [LICENSE](LICENSE) file.
 
 via Composer: `composer require Kakifrucht/flarum-de-extended`
 
-See also on [Packagist](https://packagist.org/packages/cbmainz/flarum-de-extended).
+See also on [Packagist](https://packagist.org/packages/Kakifrucht/flarum-de-extended).
 
 ### How to update
 
