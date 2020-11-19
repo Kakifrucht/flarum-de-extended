@@ -2,7 +2,7 @@
 
 Extension to localize third party extensions into German. For support, please use the discussion thread on the [Flarum support forum](https://discuss.flarum.org/d/2648-german-language-pack), or use the issue tracker here on GitHub.
 
-You can find the German language pack for Flarum and it's bundled extensions in [this repository](https://github.com/Kakifrucht/flarum-de).
+You can find the German language pack for **Flarum and it's bundled extensions** in [this repository](https://github.com/Kakifrucht/flarum-de).
 
 - [Information](https://github.com/Kakifrucht/flarum-de#information)
   - [Version](https://github.com/Kakifrucht/flarum-de#version)
@@ -16,8 +16,8 @@ You can find the German language pack for Flarum and it's bundled extensions in 
 
 ### Version
 
-- 0.1.0
-- Released on November 18, 2020
+- 0.1.1
+- Released on November 19, 2020
 
 ### Supported Extensions
 
