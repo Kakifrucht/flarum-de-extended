@@ -6,7 +6,7 @@ askvortsov-categories:
       keep_tags_nav: Link zur klassischen Kategorien Ansicht in der Navigationsleiste behalten.
       child_bare_icon: Symbole in Unterkategorien ohne runden Hintergrund anzeigen.
       compact_mobile_mode: Kompakten Modus für Mobilgeräte aktivieren.
-      full_page_desktop: Navigationsmenü der Seitenleiste auf eine Zeile setzen, dies versteckt auch Widgets (wie zum Beispiel Friends of Flarum Forum Statistics) von der Navigationsleiste auf der Kategorien Seite.
+      full_page_desktop: Navigationsmenü beim betrachten der Kategorien auf eine Zeile bringen, dies versteckt auch Widgets (wie zum Beispiel Friends of Flarum Forum Statistics) von der Navigationsleiste auf der Kategorien Seite.
       parent_remove_icon: Symbole für Hauptkategorien ausblenden.
       parent_remove_description: Beschreibungen für Hauptkategorien ausblenden.
       parent_remove_stats: Statistiken für Hauptkategorien ausblenden.
