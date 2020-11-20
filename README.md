@@ -24,7 +24,7 @@ You can find the German language pack for **Flarum and it's bundled extensions**
 We currently support following third party extensions:
 
 - [Flarum Categories](https://github.com/askvortsov1/flarum-categories) (v1.1.0)
-- [OAuth by FriendsOfFlarum](https://github.com/FriendsOfFlarum/oauth/) (v0.1.0)
+- [OAuth by FriendsOfFlarum](https://github.com/FriendsOfFlarum/oauth) (v0.1.0)
 - [Polls by FriendsOfFlarum](https://github.com/FriendsOfFlarum/polls) (v0.1.3)
 - [User Bio by FriendsOfFlarum](https://github.com/FriendsOfFlarum/user-bio) (v0.3.1)
 - [Username Request by FriendsOfFlarum](https://github.com/FriendsOfFlarum/username-request) (v0.3.0)
