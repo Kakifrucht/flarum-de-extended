@@ -16,8 +16,8 @@ You can find the German language pack for **Flarum and it's bundled extensions**
 
 ### Version
 
-- 0.1.2
-- Released on November 20, 2020
+- 0.1.3
+- Released on December 15, 2020
 
 ### Supported Extensions
 
@@ -26,6 +26,7 @@ We currently support following third party extensions:
 - [Flarum Categories](https://github.com/askvortsov1/flarum-categories) (v1.1.0)
 - [OAuth by FriendsOfFlarum](https://github.com/FriendsOfFlarum/oauth) (v0.1.0)
 - [Polls by FriendsOfFlarum](https://github.com/FriendsOfFlarum/polls) (v0.1.3)
+- [ReCAPTCHA by FriendsOfFlarum](https://github.com/FriendsOfFlarum/recaptcha) (v0.2.0)
 - [User Bio by FriendsOfFlarum](https://github.com/FriendsOfFlarum/user-bio) (v0.3.1)
 - [Username Request by FriendsOfFlarum](https://github.com/FriendsOfFlarum/username-request) (v0.3.0)
 - [Minecraft Avatars](https://github.com/Nearata/flarum-ext-minecraft-avatars) (v1.2.0)
