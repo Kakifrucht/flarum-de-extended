@@ -15,6 +15,11 @@
     "extra": {
         "flarum-extension": {
             "title": "Deutsch Extended",
+            "category": "language",
+            "info": {
+                "website": "https://github.com/Kakifrucht/flarum-de-extended",
+                "support": "https://discuss.flarum.org/d/2648"
+            },
             "icon": {
                 "image": "icon.svg",
                 "backgroundColor": "#00247d",

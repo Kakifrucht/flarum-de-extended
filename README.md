@@ -16,8 +16,8 @@ You can find the German language pack for **Flarum and it's bundled extensions**
 
 ### Version
 
-- 0.1.3
-- Released on December 15, 2020
+- 0.1.4
+- Released on January 25, 2021
 
 ### Supported Extensions
 
