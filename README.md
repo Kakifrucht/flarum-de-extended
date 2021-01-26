@@ -16,19 +16,20 @@ You can find the German language pack for **Flarum and it's bundled extensions**
 
 ### Version
 
-- 0.1.4
-- Released on January 25, 2021
+- 0.2.0
+- Released on January 26, 2021
 
 ### Supported Extensions
 
 We currently support following third party extensions:
 
-- [Flarum Categories](https://github.com/askvortsov1/flarum-categories) (v1.1.0)
-- [OAuth by FriendsOfFlarum](https://github.com/FriendsOfFlarum/oauth) (v0.1.0)
-- [Polls by FriendsOfFlarum](https://github.com/FriendsOfFlarum/polls) (v0.1.3)
-- [ReCAPTCHA by FriendsOfFlarum](https://github.com/FriendsOfFlarum/recaptcha) (v0.2.0)
-- [User Bio by FriendsOfFlarum](https://github.com/FriendsOfFlarum/user-bio) (v0.3.1)
-- [Username Request by FriendsOfFlarum](https://github.com/FriendsOfFlarum/username-request) (v0.3.0)
+- [Flarum Categories](https://github.com/askvortsov1/flarum-categories) (v2.0.0)
+- [OAuth by FriendsOfFlarum](https://github.com/FriendsOfFlarum/oauth) (v0.2.0)
+- [Pages by FriendsOfFlarum](https://github.com/FriendsOfFlarum/pages) (v0.6.0)
+- [Polls by FriendsOfFlarum](https://github.com/FriendsOfFlarum/polls) (v0.3.2)
+- [ReCAPTCHA by FriendsOfFlarum](https://github.com/FriendsOfFlarum/recaptcha) (v0.3.1)
+- [User Bio by FriendsOfFlarum](https://github.com/FriendsOfFlarum/user-bio) (v0.4.2)
+- [Username Request by FriendsOfFlarum](https://github.com/FriendsOfFlarum/username-request) (v0.4.1)
 - [Minecraft Avatars](https://github.com/Nearata/flarum-ext-minecraft-avatars) (v1.2.0)
 
 To add support for an extension or update an existing translation, please open a pull request.
