@@ -18,7 +18,7 @@ fof-username-request:
         success: => fof-username-request.ref.action.success
         name: '{name} hat die Änderung des Nicknamens zu "{requestedName}" angefordert'
       results:
-        title: => fof-username-request.ref.nickname_change_request
+        title: Änderung des Nicknamens
         approved: 'Deine gewünschte Änderung des Nicknamens wurde akzeptiert'
         dismiss_button: => core.ref.okay
         new_name: 'Dein Nickname wurde erfolgreich geändert in: {name}'
@@ -46,7 +46,7 @@ fof-username-request:
         success: => fof-username-request.ref.action.success
         name: '{name} hat die Änderung des Nutzernamens zu "{requestedName}" angefordert'
       results:
-        title: => fof-username-request.ref.username_change_request
+        title: Änderung des Nutzernamens
         approved: 'Deine gewünschte Änderung des Nutzernamens wurde akzeptiert'
         dismiss_button: => core.ref.okay
         new_name: 'Dein Nutzername wurde erfolgreich geändert in: {name}'
@@ -82,8 +82,8 @@ fof-username-request:
 
   ref:
     name_change_requests: Anträge auf Änderung des Namens
-    nickname_change_request: Antrag auf Änderung des Nicknamens
-    username_change_request: Antrag auf Änderung des Nutzernamens
+    nickname_change_request: Änderung des Nicknamens beantragen
+    username_change_request: Änderung des Nutzernamens beantragen
     action:
       decision_title: Entscheidung
       approval_label: Akzeptieren
