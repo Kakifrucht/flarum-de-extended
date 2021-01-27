@@ -16,14 +16,17 @@ You can find the German language pack for **Flarum and it's bundled extensions**
 
 ### Version
 
-- 0.2.0
-- Released on January 26, 2021
+- 0.2.1
+- Released on January 27, 2021
 
 ### Supported Extensions
 
 We currently support following third party extensions:
 
 - [Flarum Categories](https://github.com/askvortsov1/flarum-categories) (v2.0.0)
+- [Filter by FriendsOfFlarum](https://github.com/FriendsOfFlarum/filter) (v0.3.2)
+- [Formatting by FriendsOfFlarum](https://github.com/FriendsOfFlarum/formatting) (v0.3.1)
+- [Links by FriendsOfFlarum](https://github.com/FriendsOfFlarum/links) (v0.5.3)
 - [OAuth by FriendsOfFlarum](https://github.com/FriendsOfFlarum/oauth) (v0.2.0)
 - [Pages by FriendsOfFlarum](https://github.com/FriendsOfFlarum/pages) (v0.6.0)
 - [Polls by FriendsOfFlarum](https://github.com/FriendsOfFlarum/polls) (v0.3.2)
