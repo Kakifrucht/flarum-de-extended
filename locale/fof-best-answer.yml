@@ -9,7 +9,7 @@ fof-best-answer:
         general: Allgemein
         reminders: Erinnerungen
         advanced: Erweitert
-        reminders_notice: Damit die Erinnerungen korrekt funktionieren, musst du den Flarum Scheduler korrekt eingerichtet haben.
+        reminders_notice: Damit die Erinnerungen korrekt funktionieren, musst du den Flarum-Scheduler korrekt eingerichtet haben.
       allow_select_own_post: Erlaube den Nutzern, ihre eigenen Beiträge auszuwählen
       select_best_answer_reminder_days: Erinnere Nutzer daran, nach X Tagen eine beste Antwort auszuwählen
       schedule_on_one_server: Verwende 'onOneServer()' Anweisung für den Task-Scheduler (setzt Redis/Memcache vorraus)
