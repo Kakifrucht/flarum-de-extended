@@ -4,6 +4,7 @@ fof-masquerade:
         alerts:
             profile-completion-required: >
                 Bitte fülle die notwendigen Profilfelder unten aus.
+            profile-completed: Profil vervollständigt! <a>Weiter zur Startseite</a>
         buttons:
             view-profile: Profil ansehen
             save-profile: Speichern
@@ -15,7 +16,6 @@ fof-masquerade:
                 yes: Ja
                 no: Nein
     admin:
-        title: Masquerade
         general-options: Allgemeine Optionen
         buttons:
             add-field: Feld anlegen
@@ -24,9 +24,6 @@ fof-masquerade:
         permissions:
             have-profile: Masquerade-Profil anlegen
             view-profile: Masquerade-Profile ansehen
-        menu:
-            description: >
-                Nutzerprofil-Felder konfigurieren.
         fields:
             title: Felder
             add: Feld {field} hinzufügen
@@ -42,7 +39,7 @@ fof-masquerade:
             type: Typ
             validation: Validierung
             validation-help: >
-                Validiere die Gültigkeit der Eingabe mithilfe der unterstützten <a>Laravel-Validierungsregeln</a>. 
+                Überprüfe die Gültigkeit der Eingabe mithilfe der unterstützten <a>Laravel-Validierungsregeln</a>. 
                 Beispiel: "string|min:5" oder "url".
             prefix: Feld-Prefix
             prefix-help: >
