@@ -1,3 +1,4 @@
+# link to current english version: https://github.com/imorland/html-head/blob/master/resources/locale/en.yml
 ianm-html-head:
   admin:
     create_button: Hinzufügen
@@ -7,7 +8,7 @@ ianm-html-head:
       header_label: Header-Element
       active_label: Aktiv
       empty_text: Keine Einträge
-      delete_button: Entfernen 
+      delete_button: Entfernen
       edit_button: Bearbeiten
 
     modal:
@@ -17,4 +18,3 @@ ianm-html-head:
       description_label: Beschreibung
       header_label: Benutzerdefiniertes Header-Element
       save_button: Speichern
-      
