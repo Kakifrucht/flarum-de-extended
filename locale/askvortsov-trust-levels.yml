@@ -1,13 +1,14 @@
 # link to current english version: https://github.com/askvortsov1/flarum-trust-levels/blob/master/resources/locale/en.yml
 askvortsov-trust-levels:
   admin:
-    range_drivers:
+    metric_drivers:
       discussions_entered: Diskussionen gelesen
       discussions_participated: An Diskussionen teilgenommen
       discussions_started: Diskussionen gestartet
       posts_made: Beiträge erstellt
       likes_given: Gefällt-Mirs gegeben
       likes_received: Gefällt-Mirs erhalten
+      best_answers: Beste Antworten
     group_selector:
       placeholder: Wähle eine Gruppe
     trust_level_modal:
@@ -29,7 +30,7 @@ askvortsov-trust-levels:
         <li>Da diese gruppen automatisch verwaltet sind empfehlen wir eine eigene Menge von Gruppen für Vertrauenslevel einzurichten.</li>
         <li>Wenn du ein Vertrauenslevel löschst solltest du auch die damit assoziierte Gruppe löschen; ansonsten bleiben Nutzer mit dem gelöschten Vertrauenslevel in dieser Gruppe</li>
         <li>Um Fehler zu vermeiden, kannst du die Gruppe einer Vertrauensstufe nicht aktualisieren, nachdem sie erstellt wurde.</li>
-        <li>Alle Kriterien, die deaktiviert sind, werden nicht gezählt. Wenn für einen bestimmten Vertrauenslevel alle Kriterien deaktiviert sind, erhalten ALLE Nutzer dieses Level.</li>
+        <li>Alle Metriken, die deaktiviert sind, werden nicht gezählt. Wenn für einen bestimmten Vertrauenslevel alle Metriken deaktiviert sind, erhalten ALLE Nutzer dieses Level.</li>
         <li>Wenn eine Gruppe von mehreren Vertrauenslevels verwaltet wird, dann wird der Nutzer zu der Gruppe hinzugefügt, sofern er sich in mindestens einem dieser Vertrauenslevel befindet.</li>
   forum:
     edit_user:
