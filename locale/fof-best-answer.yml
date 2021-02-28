@@ -15,7 +15,7 @@ fof-best-answer:
       schedule_on_one_server: Verwende 'onOneServer()' Anweisung für den Task-Scheduler (setzt Redis/Memcache vorraus)
       schedule_stop_overnight: Verhindern, dass der Erinnerungsplaner zu ungünstigen Zeiten läuft (21 - 8 Uhr Serverzeit)
       schedule_log_output: Scheduler-Output an den Log anhängen
-      remind_tag_ids: Um Erinnerungen auf bestimmte Kategorien zu beschränken, gebe die ID's der Kategorien hier ein (kommagetrennt)
+      remind_tag_ids: Um Erinnerungen auf bestimmte Themen zu beschränken, gebe die ID's der Themen hier ein (kommagetrennt)
       use_alt_ui: Verwende alternatives Layout (beste Antwort-Schaltflächen in Fußzeile des Beitrags)
   forum:
     answered_badge: Beantwortet

@@ -18,5 +18,5 @@ fof-prevent-necrobumping:
       message_description_label: Benutzerdefinierte Nachricht Beschreibung
       message_agreement_label: Benutzerdefinierte Nachricht Vereinbarung (Kontrollkästchen)
 
-      tags_title: Kategorien
-      tags_help: Überschreibe die globalen Tage für eine bestimmte Kategorie. Leer bedeutet, dass der Standardwert verwendet wird. Wenn eine Diskussion mehrere Kategorien mit unterschiedlichen Tageswerten hat, wird die kleinste konfigurierte Anzahl von Tagen verwendet.
+      tags_title: Themen
+      tags_help: Überschreibe die globalen Tage für ein bestimmtes Thema. Leer bedeutet, dass der Standardwert verwendet wird. Wenn eine Diskussion mehrere Themen mit unterschiedlichen Tageswerten hat, wird die kleinste konfigurierte Anzahl von Tagen verwendet.
