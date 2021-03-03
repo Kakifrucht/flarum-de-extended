@@ -3,11 +3,14 @@ fof-user-directory:
     forum:
         search:
             users_heading: 'Durchsuche alle Benutzer nach "{query}"'
+            field:
+                placeholder: Alle Nutzer durchsuchen
         page:
             nav: Benutzerverzeichnis
             refresh_tooltip: => core.forum.index.refresh_tooltip
             load_more_button: => core.ref.load_more
             empty_text: Wir konnten keinen Benutzer finden, der deiner Suche entspricht.
+            filter_button: Gruppen Filtern
 
     admin:
         permissions:
