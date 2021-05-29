@@ -39,7 +39,7 @@ fof-polls:
 
     tooltip:
       badge: Umfrage
-      votes: "Eine Stimme|{count} Stimmen"
+      votes: "{count, plural, one {Eine Stimme} other {# Stimmen}}"
 
     votes_modal:
       title: => fof-polls.forum.public_poll

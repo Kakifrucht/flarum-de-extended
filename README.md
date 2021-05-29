@@ -16,8 +16,8 @@ You can find the German language pack for **Flarum and it's bundled extensions**
 
 ### Version
 
-- 0.3.0
-- Released on February 27, 2021
+- 1.0.0
+- Released on May 29, 2021
 
 ### Supported Extensions
 
@@ -30,7 +30,7 @@ We currently support following third-party extensions:
 - [Mailing](https://github.com/clarkwinkelmann/flarum-ext-mailing) v0.4.0
 - [Best Answer by FriendsOfFlarum](https://github.com/FriendsOfFlarum/best-answer) v0.3.5
 - [Byōbu by FriendsOfFlarum](https://github.com/FriendsOfFlarum/byobu) v0.6.1
-- [Discussion Language by FriendsOfFlarum](https://github.com/FriendsOfFlarum/discussion-language) v0.3.2
+- [Discussion Language by FriendsOfFlarum](https://github.com/FriendsOfFlarum/discussion-language) v1.0.0
 - [Drafts by FriendsOfFlarum](https://github.com/FriendsOfFlarum/drafts) v0.3.2
 - [Filter by FriendsOfFlarum](https://github.com/FriendsOfFlarum/filter) v0.3.2
 - [Formatting by FriendsOfFlarum](https://github.com/FriendsOfFlarum/formatting) v0.3.1
@@ -54,7 +54,7 @@ We currently support following third-party extensions:
 - [Split by FriendsOfFlarum](https://github.com/FriendsOfFlarum/split) v0.6.0
 - [Upload by FriendsOfFlarum](https://github.com/FriendsOfFlarum/upload) v0.12.10
 - [User Bio by FriendsOfFlarum](https://github.com/FriendsOfFlarum/user-bio) v0.4.2
-- [User directory by FriendsOfFlarum](https://github.com/FriendsOfFlarum/user-directory) v0.5.0
+- [User directory by FriendsOfFlarum](https://github.com/FriendsOfFlarum/user-directory) v1.0.0
 - [Username Request by FriendsOfFlarum](https://github.com/FriendsOfFlarum/username-request) v0.4.2
 - [Webhooks by FriendsOfFlarum](https://github.com/FriendsOfFlarum/webhooks) v0.5.0
 - [HTML Head Items](https://github.com/imorland/html-head) v0.1.1
@@ -62,7 +62,7 @@ We currently support following third-party extensions:
 - [Flarum SSO](https://github.com/maicol07/flarum-ext-sso) v1.8.1
 - [Flarum discussion views](https://github.com/MichaelBelgium/flarum-discussion-views) v5.0.0
 - [Flarum profile views](https://github.com/MichaelBelgium/flarum-profile-views/) v4.0.0
-- [Minecraft Avatars](https://github.com/Nearata/flarum-ext-minecraft-avatars) v1.2.0
+- [Minecraft Avatars](https://github.com/Nearata/flarum-ext-minecraft-avatars) v1.5.0
 - [Flarum Blog](https://github.com/v17development/flarum-blog) v0.2.1
 
 To add support for an extension or update an existing translation, please open a pull request.

@@ -17,7 +17,7 @@ fof-merge-discussions:
       merge: => fof-merge-discussions.ref.merge
 
     post:
-      merged: <b>{count}</b> Beitrag wurde von {titles} zusammengeführt.|<b>{count}</b> Beiträge wurden von {titles} zusammengeführt.
+      merged: "{count, plural, one {<b>#</b> Beitrag wurde von {titles} zusammengeführt.} other {<b>#</b> Beiträge wurden von {titles} zusammengeführt.}}"
 
   admin:
     permissions:

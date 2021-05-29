@@ -18,6 +18,7 @@ fof-user-directory:
         settings:
             link: Link auf der Homepage hinzufügen, damit Benutzer das Verzeichnis sehen können
             default-sort: Standard-Sortierung
+            use-small-cards: Verwende kleine Nutzer-Karten
 
     lib:
         sort:

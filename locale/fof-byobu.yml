@@ -15,7 +15,7 @@ fof-byobu:
             submit_button: Erstelle private Diskussion
             title_placeholder: Private Diskussion Titel
         labels:
-            recipients: "{count} Empfänger|{count} Empfänger"
+            recipients: "{count} Empfänger"
             user_deleted: -gelöscht-
         nav:
             start_button: Privat diskutieren

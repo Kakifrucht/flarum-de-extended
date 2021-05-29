@@ -10,7 +10,7 @@ v17development-flarum-blog:
 
     settings:
       no_categories_selected: "Keine Kategorien ausgewählt"
-      selected_category_count: "Du hast {count} Kategorie ausgewählt|Du hast {count} Kategorien ausgewählt"
+      selected_category_count: "{count, plural, one {Du hast # Kategorie ausgewählt} other {Du hast # Kategorien ausgewählt}}"
       select_categories_button: "Blog-Kategorien auswählen"
       blog_heading: "Blog"
       allow_comments_label: "Kommentare zulassen"

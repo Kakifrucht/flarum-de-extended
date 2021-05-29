@@ -21,6 +21,7 @@ fof-discussion-language:
       native_label: Sprachnamen in Muttersprache anzeigen
       show_flag_label: Länderflaggen mit Sprachnamen anzeigen
       composer_default_label: Aktuelle Sprache im Diskussions-Verfasser vorauswählen
+      locale_sort_label: Erkannte Sprache als Standard-Diskussionsfilter verwenden
 
     permissions:
       allow_change_language_label: Sprachbearbeitung erlauben
