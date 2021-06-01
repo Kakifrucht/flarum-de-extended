@@ -37,7 +37,7 @@ v17development-flarum-badges:
     auto_moderator:
       not_installed:
         title: Benutzer automatisch mit Abzeichen belohnen
-        content: Diese Erweiterung bietet mehr Funktionalität, wenn <a>Auto Moderator</a> installiert und aktiviert ist. Wenn Sie diese Erweiterung installieren, können Benutzer automatisch mit Abzeichen belohnt werden, ohne dass ein Community-Mitarbeiter eingreifen muss!
+        content: Diese Erweiterung bietet mehr Funktionalität, wenn <a>Auto Moderator</a> installiert und aktiviert ist. Wenn du diese Erweiterung installierst, können Benutzer automatisch mit Abzeichen belohnt werden, ohne dass ein Community-Mitarbeiter eingreifen muss!
         install: Installieren
         dismiss: Nicht erneut anzeigen
 
@@ -81,6 +81,6 @@ v17development-flarum-badges:
       earned_count: "{count, plural, one {<b># Benutzer</b> hat dieses Abzeichen erhalten} other {<b># Benutzer</b> haben dieses Abzeichen erhalten}}"
 
     moderation:
-      remove_badge:Abzeichen vom Benutzer entfernen
+      remove_badge: Abzeichen vom Benutzer entfernen
       remove_badge_confirm: Bist du sicher, dass du dieses Abzeichen von diesem Benutzer entfernen möchtest?
       give_badge: Abzeichen vergeben
